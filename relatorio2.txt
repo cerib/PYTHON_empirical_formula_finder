@@ -1,0 +1,4 @@
+LISTA C3H7 *
+	Hexane;C6H14
+LISTA C4H9 *
+	Octane;C8H18

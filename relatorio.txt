@@ -1,0 +1,9 @@
+LISTA CH *
+	Benzene;C6H6
+LISTA CH3 Alkane
+	Ethane;C2H6
+LISTA CH2O *
+	Acetic Acid;C2H4O2
+	Methyl Formate;C2H4O2
+LISTA CH2O Ester
+	Methyl Formate;C2H4O2
