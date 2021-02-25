@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Empirical_formula
 For example, take the chemical formula of glucose, C6-H12-O6. You can see that the proportion of Hydrogen to Oxygen and Carbon is 2 to 1. So the empirical formula would be C-H2-O
 
 # Motive
-This was a friend's college assignment for his chemical engineering degree. I wanted to see if I was able to do the assignment, provided that I had never worked with python or SQLite before.
+This was a friend's old college assignment for his chemical engineering degree. I wanted to see if I was able to do the assignment, provided that I had never worked with python or SQLite before. I didn't solve this to help him, since he had already done it.
 
 # How it works
 
